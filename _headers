@@ -1,0 +1,8 @@
+/*
+  Cross-Origin-Embedder-Policy: require-corp
+  Cross-Origin-Opener-Policy: same-origin
+  Cross-Origin-Resource-Policy: cross-origin
+  Content-Security-Policy: default-src * data: blob: 'unsafe-inline' 'unsafe-eval';
+  X-Content-Type-Options: nosniff
+  Access-Control-Allow-Origin: *
+  Referrer-Policy: no-referrer
